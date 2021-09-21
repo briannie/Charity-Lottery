@@ -1,1 +1,3 @@
-# Charity Lottery \n\n Make a ethereum-based project
+# Charity Lottery
+
+Make a ethereum-based project
